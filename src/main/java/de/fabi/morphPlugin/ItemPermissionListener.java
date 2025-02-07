@@ -1,4 +1,13 @@
 package de.fabi.morphPlugin;
+/*
+Copyright © 2024 https://github.com/Fabii08?tab=repositories  
+All rights reserved.  
+
+Unauthorized copying, modification, or distribution of this file,  
+via any medium, is strictly prohibited.  
+
+DO NOT DISTRIBUTE.
+*/
 
 import net.kyori.adventure.text.Component;
 import net.kyori.adventure.text.minimessage.MiniMessage;

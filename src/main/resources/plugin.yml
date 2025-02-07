@@ -1,7 +1,8 @@
 name: MorphPlugin
-version: '1.4.0'
+version: '1.0.0'
 main: de.fabi.morphPlugin.MorphPlugin
 api-version: '1.21'
+author: Fabii08
 commands:
   morph:
   morphitems:
