@@ -1,13 +1,8 @@
-package de.fabi.morphPlugin;
 /*
-Copyright © 2024 https://github.com/Fabii08?tab=repositories  
+Copyright © 2025 https://github.com/Fabii08?tab=repositories  
 All rights reserved.  
-
-Unauthorized copying, modification, or distribution of this file,  
-via any medium, is strictly prohibited.  
-
-DO NOT DISTRIBUTE.
 */
+package de.fabi.morphPlugin;
 
 import net.kyori.adventure.text.minimessage.MiniMessage;
 import org.bukkit.Bukkit;
